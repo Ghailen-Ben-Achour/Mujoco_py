@@ -27,3 +27,6 @@ If you want to specify a nonstandard location for the key and package, use the e
 pip3 install -U 'mujoco-py<2.1,>=2.0'
 ```
 Note that this only works with Python3 (Python2 is not supported)
+
+# Simple tests
+To make sure that the installation was done successfully, you can run the following scripts.
