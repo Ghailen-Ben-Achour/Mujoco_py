@@ -5,4 +5,5 @@ In the following tutorial we use Mujoco 2.0.0 and Python3. We also use Linux as 
 
 # Installation on Linux
 
-1-	download the binary files for linux [here](https://www.roboti.us/download/mujoco200_linux.zip)
+1. Download the binary files ```mujoco200``` for linux [here](https://www.roboti.us/download/mujoco200_linux.zip)
+2. Download the activation key ```mjkey``` (available until October 18, 2031) from this [link](https://www.roboti.us/file/mjkey.txt)
