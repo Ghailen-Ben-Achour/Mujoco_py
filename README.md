@@ -30,7 +30,10 @@ Note that this only works with Python3 (Python2 is not supported)
 ```bash
 vim ~/.bashrc
 ```
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/shubhom/.mujoco/mjpro150/bin
-
+6. add following line to .bashrc
+```plain
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.mujoco/mujoco200/bin
+```
+7. Save changes and restart your terminal
 # Simple tests
 To make sure that the installation was done successfully, you can run the following scripts.
