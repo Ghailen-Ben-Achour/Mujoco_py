@@ -37,3 +37,6 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.mujoco/mujoco200/bin
 7. Save changes and restart your terminal
 # Simple tests
 To make sure that the installation was done successfully, you can run the following scripts.
+```bash
+python3 script.py
+```
