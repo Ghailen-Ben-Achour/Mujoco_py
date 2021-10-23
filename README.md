@@ -19,14 +19,18 @@ The folder should be organized as the following
        |   └── sample
        └── mjkey.txt
 ```
-```
+
 If you want to specify a nonstandard location for the key and package, use the env variables MUJOCO_PY_MJKEY_PATH and MUJOCO_PY_MUJOCO_PATH.
-```
 4. run the following command to install mujoco-py
 ```bash
 pip3 install -U 'mujoco-py<2.1,>=2.0'
 ```
 Note that this only works with Python3 (Python2 is not supported)
+5. Open .bashrc file using the following command
+```bash
+vim ~/.bashrc
+```
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/shubhom/.mujoco/mjpro150/bin
 
 # Simple tests
 To make sure that the installation was done successfully, you can run the following scripts.
