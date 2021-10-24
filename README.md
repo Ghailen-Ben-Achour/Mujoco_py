@@ -43,3 +43,5 @@ To make sure that the installation was done successfully, you can run the follow
 ```bash
 python3 script.py
 ```
+
+You can also run your simulations by running ```FetchReach.py``` or ```ant.py```
