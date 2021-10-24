@@ -28,7 +28,8 @@ If you want to specify a nonstandard location for the key and package, use the e
 ```bash
 pip3 install -U 'mujoco-py<2.1,>=2.0'
 ```
-Note that this only works with Python3 (Python2 is not supported)
+Note that this only works with Python3 (Python2 is not supported).
+
 5. Open .bashrc file using the following command
 ```bash
 vim ~/.bashrc
