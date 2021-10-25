@@ -58,4 +58,11 @@ One issue the you may encounter when  running ```FetchReach.py``` or ```ant.py``
 ERROR: GLEW initalization error: Missing GL version
 ```
 To resolve this error you should:
-1. 
+1. Open .bashrc file using the following command
+```bash
+vim ~/.bashrc
+```
+2. add following line to .bashrc
+```plain
+export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
+```
