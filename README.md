@@ -34,7 +34,7 @@ Note that this only works with Python3 (Python2 is not supported).
 ```bash
 vim ~/.bashrc
 ```
-6. add following line to .bashrc
+6. Add following line to .bashrc
 ```plain
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.mujoco/mujoco200/bin
 ```
@@ -62,7 +62,8 @@ To resolve this error you should:
 ```bash
 vim ~/.bashrc
 ```
-2. add following line to .bashrc
+2. Add following line to .bashrc
 ```plain
 export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 ```
+3. Save changes and restart your terminal
