@@ -67,3 +67,7 @@ vim ~/.bashrc
 export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 ```
 3. Save changes and restart your terminal
+4. Run ```FetchReach.py``` or ```ant.py```:
+```bash
+python3 FetchReach.py [or ant.py]
+```
