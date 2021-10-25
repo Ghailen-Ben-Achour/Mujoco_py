@@ -54,3 +54,6 @@ python3 FetchReach.py
 
 # Issues
 One issue the you may encounter when  running ```FetchReach.py``` or ```ant.py```.
+```plain
+ERROR: GLEW initalization error: Missing GL version
+```
