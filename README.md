@@ -51,3 +51,6 @@ python3 FetchReach.py
 ```
 
 ![Project Image](images/fetch.png)
+
+# Issues
+One issue the you may encounter when  running ```FetchReach.py``` or ```ant.py```.
