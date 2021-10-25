@@ -57,3 +57,5 @@ One issue the you may encounter when  running ```FetchReach.py``` or ```ant.py``
 ```plain
 ERROR: GLEW initalization error: Missing GL version
 ```
+To resolve this error you should:
+1. 
